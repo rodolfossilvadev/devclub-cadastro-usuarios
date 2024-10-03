@@ -17,8 +17,7 @@ Além do conceitos e navegar entre telas e consumir APi's.</p>
 
 
 
-<video ="https://github.com/user-attachments/assets/f0bf2c48-1431-4837-b246-8bd3d6977503"
-heigth= 300px />
+https://github.com/user-attachments/assets/f0bf2c48-1431-4837-b246-8bd3d6977503
 
 
 
