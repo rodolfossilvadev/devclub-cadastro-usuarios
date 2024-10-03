@@ -16,8 +16,10 @@ Além do conceitos e navegar entre telas e consumir APi's.</p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javas">
 
 
-<video src="https://github.com/rodolfossilvadev/Joken-Pow/blob/main/assets/desktop.jpg?raw=true" alt="desktop-jokenpo"
-height="250px">
+
+https://github.com/user-attachments/assets/f0bf2c48-1431-4837-b246-8bd3d6977503
+
+
 
 # React + Vite
 
