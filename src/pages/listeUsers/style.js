@@ -33,7 +33,7 @@ export const CardUsers = styled.div`
     background-color: #393944;
     padding: 16px;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px white;
+    box-shadow: 3px 3px 3px #03FD05;
     display: flex;
     justify-content: space-between;
     align-items: center;
