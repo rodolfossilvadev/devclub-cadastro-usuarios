@@ -4,7 +4,7 @@ export const Button = styled.button`
     border: ${(props )=> (props.theme === 'primary' ? 'none' : '1px solid #ffffff')};
     background: ${(props )=>
         props.theme === 'primary'
-            ? 'linear-gradient(180deg, #fe7e5d 0%, #7f3841 100%)'
+            ? 'linear-gradient(180deg, #03FD05 0%, #000000 100%)'
             : 'transparent'};
     font-size: 16px;
     color: #ffffff;
@@ -16,7 +16,7 @@ export const Button = styled.button`
 
    &:hover{
         scale:  ${(props )=> (props.theme === 'primary' ? '1.2' : '1.1')};
-        background:  ${(props )=> (props.theme === 'primary' ? 'linear-gradient(180deg, #fe7e5d 0%, #7f3841 100%)'
+        background:  ${(props )=> (props.theme === 'primary' ? 'linear-gradient(180deg, #03FD05 0%, #000000 100%)'
              : '#ffffff')};
         color:  ${(props )=> (props.theme === 'primary' ? '#ffffff' : 'black')};;
     }

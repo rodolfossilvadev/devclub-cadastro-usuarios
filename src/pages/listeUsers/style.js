@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    background-color: #181f36;
+    background-color: #000000;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -30,7 +30,7 @@ export const ContainerUsers = styled.div`
 `
 
 export const CardUsers = styled.div`
-    background-color: #252d48;
+    background-color: #393944;
     padding: 16px;
     border-radius: 20px;
     box-shadow: 3px 3px 3px white;
