@@ -15,10 +15,7 @@ Além do conceitos e navegar entre telas e consumir APi's.</p>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javas">
 
-
-
-https://github.com/user-attachments/assets/f0bf2c48-1431-4837-b246-8bd3d6977503
-
+https://github.com/user-attachments/assets/8fd75d05-95dd-4d6c-acf5-fa39582a35fa
 
 
 # React + Vite
